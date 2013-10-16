@@ -1,9 +1,9 @@
 /*
  * thiagofs: minimalist (possibly non-functional) persistent filesystem.
  * Made for educational purposes.
- * Built upon thiagofsv2 [https://github.com/thiagodecasantiago/mo806],
- * which was built upon thiagofs [http://www.ic.unicamp.br/~islene/2s2013-mo806/vfs/vfs.html].
- * Influenced by gogthiagofs [shttp://www.ic.unicamp.br/~islene/2s2013-mo806/vfs/gogthiagofs/],
+ * Built upon islenefsv2 [https://github.com/thiagodecasantiago/mo806],
+ * which was built upon islenefs [http://www.ic.unicamp.br/~islene/2s2013-mo806/vfs/vfs.html].
+ * Influenced by gogislenefs [shttp://www.ic.unicamp.br/~islene/2s2013-mo806/vfs/gogislenefs/],
  * STAMFS [http://haifux.org/lectures/120/] (heavily),
  * and ext2 [https://www.kernel.org/].
  * Works with kernel version 3.10.x. Mountable using a file as a disk.
